@@ -24,7 +24,7 @@
             >
 
         </activity>
-        <activity android:name=".ListViewEx" >
+        <activity android:name=".ListViewEx2" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
